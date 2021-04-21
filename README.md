@@ -1,19 +1,14 @@
 ### Hi there, I'm Mehul 👋
 
-<!--
-**Mehul-Bisht/Mehul-Bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mehul Bisht, an Android Developer, who loves exploring different stuff. 
 
-Here are some ideas to get you started:
+<img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/65572088/115598820-709f2880-a2f8-11eb-8e42-44932f3a9530.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me:**
+
+- 🛠 Currently working with Kotlin, Java, Android and Firebase; 
+- 💡 Looking for Internship opportunities;
+- 📫 How to reach me: mehulbishtanna@gmail.com
 
 ### Connect with me:
 
