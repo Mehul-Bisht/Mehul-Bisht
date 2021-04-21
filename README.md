@@ -40,9 +40,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Intellij Idea" width="40px" src="https://user-images.githubusercontent.com/65572088/115593972-d092d080-a2f2-11eb-8e3f-970ccec749ab.png" />
 <img align="left" alt="Flutter" width="120px" src="https://user-images.githubusercontent.com/65572088/115595022-0e442900-a2f4-11eb-8141-059b2a1714f6.png" />
 <img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="Jetpack Compose" width="40px" src="https://user-images.githubusercontent.com/65572088/115596063-4c8e1800-a2f5-11eb-87b9-e11289c852f5.png" />
+<img align="left" alt="OneSignal" width="40px" src="https://user-images.githubusercontent.com/65572088/115596146-63cd0580-a2f5-11eb-9b18-309afdd752f6.png" />
+<img align="left" alt="Agora" width="100px" src="https://user-images.githubusercontent.com/65572088/115596372-a7c00a80-a2f5-11eb-8fd5-2689cc6e65e6.png" />
 <img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="Ktor" width="100px" src="https://user-images.githubusercontent.com/65572088/115592966-878e4c80-a2f1-11eb-91a0-1d0cd7a77540.png" />
 <img align="left" alt="Spring Boot" width="40px" src="https://user-images.githubusercontent.com/65572088/115592739-3a11df80-a2f1-11eb-8003-356eba450a1f.png" />
+<img align="left" alt="Postman" width="40px" src="https://user-images.githubusercontent.com/65572088/115596265-89f2a580-a2f5-11eb-8572-228c5cdfb62c.png" />
 
 <br />
 <br />
