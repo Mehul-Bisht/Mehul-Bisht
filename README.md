@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Languages and Libraries
 
 <img align="left" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="Android" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20200802160428%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/65572088/115592111-7abd2900-a2f0-11eb-9c14-52848b94c524.png" />
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
