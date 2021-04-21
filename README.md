@@ -2,7 +2,7 @@
 
 Hi, I'm Mehul Bisht, an Android Developer, who loves exploring different stuff. 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/65572088/115598820-709f2880-a2f8-11eb-8e42-44932f3a9530.gif" />
+<img align="right" height="250" width="280" alt="GIF" src="https://user-images.githubusercontent.com/65572088/115598820-709f2880-a2f8-11eb-8e42-44932f3a9530.gif" />
 
 **About me:**
 
