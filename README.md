@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img align="left" alt="androidStudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" />
+<img align="left" alt="androidStudio" width="40px" src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.html" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <br />
