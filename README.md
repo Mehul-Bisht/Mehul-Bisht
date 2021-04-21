@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+### Languages and Libraries
+
+<img align="left" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+<img align="left" alt="Android" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20200802160428%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
+<br />
+<br />
+<hr />
+
+### Tools and other stuff
+
+<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img align="left" alt="androidStudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<br />
+<br />
+<hr />
+
+[linkedin]: https://www.linkedin.com/in/mehul-bisht-016a621ab/
+[twitter]: https://twitter.com/mehul_bisht
