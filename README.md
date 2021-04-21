@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/65572088/115593549-3f235e80-a2f2-11eb-9c70-72cf1e10cac6.png" />
 <img align="left" alt="Intellij Idea" width="40px" src="https://user-images.githubusercontent.com/65572088/115593972-d092d080-a2f2-11eb-8e3f-970ccec749ab.png" />
-<img align="left" alt="Flutter" width="60px" src="https://user-images.githubusercontent.com/65572088/115595022-0e442900-a2f4-11eb-8141-059b2a1714f6.png" />
+<img align="left" alt="Flutter" width="100px" src="https://user-images.githubusercontent.com/65572088/115595022-0e442900-a2f4-11eb-8141-059b2a1714f6.png" />
 <img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="Ktor" width="100px" src="https://user-images.githubusercontent.com/65572088/115592966-878e4c80-a2f1-11eb-91a0-1d0cd7a77540.png" />
