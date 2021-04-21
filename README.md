@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/65572088/115592111-7abd2900-a2f0-11eb-9c14-52848b94c524.png" />
 <img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="Ktor" width="40px" src="https://user-images.githubusercontent.com/65572088/115592966-878e4c80-a2f1-11eb-91a0-1d0cd7a77540.png" />
+<img align="left" alt="Ktor" width="80px" src="https://user-images.githubusercontent.com/65572088/115592966-878e4c80-a2f1-11eb-91a0-1d0cd7a77540.png" />
 <img align="left" alt="Spring Boot" width="40px" src="https://user-images.githubusercontent.com/65572088/115592739-3a11df80-a2f1-11eb-8003-356eba450a1f.png" />
 
 <br />
