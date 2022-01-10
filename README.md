@@ -6,14 +6,14 @@ Hi, I'm Mehul Bisht, an Android Developer, who loves exploring different stuff.
 
 **About me:**
 
-- 🛠 Currently working with Kotlin, Java, Android and Firebase; 
-- 💡 Looking for Internship opportunities;
+- 🛠 Currently working with Kotlin and Android.
 - 📫 How to reach me: mehulbishtanna@gmail.com
 
 ### Connect with me:
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
 
 ### Languages Used:
 
@@ -51,3 +51,4 @@ Hi, I'm Mehul Bisht, an Android Developer, who loves exploring different stuff.
 
 [linkedin]: https://www.linkedin.com/in/mehul-bisht-016a621ab/
 [twitter]: https://twitter.com/mehul_bisht
+[stackoverflow]: https://stackoverflow.com/users/13343177/mehul-bisht
